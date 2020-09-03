@@ -1,0 +1,5 @@
+.cover-image{
+    background-image: url('/images/PizzaBackground.jpg') ;
+    background-size: cover;
+    height: 100%;
+}
